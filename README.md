@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/github/followers/xxuuan?label=Followers&style=flat-square&color=4c71f2&labelColor=1a1b27" alt="followers" />
 <img src="https://img.shields.io/badge/Public%20Repos-12-7aa2f7?style=flat-square&labelColor=1a1b27" alt="repos" />
 <img src="https://img.shields.io/badge/Coding%20since-2018-bb9af7?style=flat-square&labelColor=1a1b27" alt="since" />
-<img src="https://komarev.com/ghpvc/?username=xxuuan&style=flat-square&color=4c71f2&labelColor=1a1b27&label=Views" alt="views" />
 
 </div>
 
@@ -118,13 +117,6 @@ status:    building something new 🔨
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=xxuuan&theme=tokyonight&hide_border=true" />
     <img src="https://streak-stats.demolab.com/?user=xxuuan&hide_border=true" alt="streak" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxuuan&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxuuan&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity" width="100%" />
   </picture>
 </p>
 
