@@ -128,14 +128,5 @@ status:    building something new 🔨
   </picture>
 </p>
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxuuan/xxuuan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxuuan/xxuuan/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/xxuuan/xxuuan/output/github-snake.svg" />
-  </picture>
-</p>
-
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:bb9af7,50:7aa2f7,100:4c71f2&section=footer" alt="footer" />
