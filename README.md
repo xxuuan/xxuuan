@@ -11,17 +11,6 @@ Mostly **Go** and **Python**, with some **Shell** and **C** when the job calls f
 
 <br>
 
-#### ⚡ Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xxuuan&show_icons=true&hide_border=true&count_private=true&theme=github_dark&rank_icon=github">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxuuan&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" height="165">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxuuan&layout=compact&hide_border=true&langs_count=6&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxuuan&layout=compact&hide_border=true&langs_count=6" alt="Top languages" height="165">
-</picture>
-
 #### 🌀 Projects
 
 | Project | What it does | |
