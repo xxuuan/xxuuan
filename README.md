@@ -1,124 +1,93 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4c71f2,50:7aa2f7,100:bb9af7&text=Hi%2C%20I'm%20xuan&fontColor=ffffff&fontSize=56&fontAlignY=36&animation=fadeIn&desc=Security%20Engineering%20%C2%B7%20Automation%20%C2%B7%20Tooling&descSize=18&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:00ff9c,100:00b8ff" alt="" />
 
 <div align="center">
 
-<a href="https://github.com/xxuuan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=Automate+the+boring%2C+understand+the+rest.;Building+tools+in+Go+%26+Python.;Turning+repetitive+ops+into+one-liners." alt="typing" />
-</a>
+```text
+__  __ _   _   __ _  _ __
+\ \/ /| | | | / _` || '_ \
+ >  < | |_| || (_| || | | |
+/_/\_\ \__,_| \__,_||_| |_|
+```
 
-<br/>
-
-<img src="https://img.shields.io/github/followers/xxuuan?label=Followers&style=flat-square&color=4c71f2&labelColor=1a1b27" alt="followers" />
-<img src="https://img.shields.io/badge/Public%20Repos-12-7aa2f7?style=flat-square&labelColor=1a1b27" alt="repos" />
-<img src="https://img.shields.io/badge/Coding%20since-2018-bb9af7?style=flat-square&labelColor=1a1b27" alt="since" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=00FF9C&center=true&vCenter=true&width=620&height=34&lines=%24+whoami+%E2%86%92+xuan;%24+cat+stack.txt+%E2%86%92+Go+%7C+Python+%7C+Shell+%7C+C;%24+make+tools+%26%26+automate+--everything;%24+echo+%22small+tools%2C+sharp+edges%22" alt="typing" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## 🧭 About
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-**我是 xuan**，热衷于把重复的工作变成可靠的工具。
-
-- 🛡️ 安全运营与工程化：自动化、数据采集、运维工具
-- ⚙️ 主力语言：**Go**、**Python**、**Shell**
-- 🔧 偏爱小而锋利的命令行工具和脚本
-- 🌱 2018 年开始写代码，持续在做、持续在学
-
-</td>
-<td width="42%" valign="top">
-
-```yaml
-name:      xuan
-focus:     [security-ops, automation]
-languages: [Go, Python, Shell]
-mindset:   small tools, sharp edges
-status:    building something new 🔨
+```console
+xuan@github ~ $ neofetch
 ```
 
-</td>
-</tr>
-</table>
+```text
+  ┌──────────────────────────────────────────────────────────┐
+  │  xuan@github                                             │
+  │  ────────────────────────────────────────────────────    │
+  │  OS         : macOS  (daily driver)                      │
+  │  Shell      : fish                                       │
+  │  Langs      : Go · Python · Shell · C                    │
+  │  Focus      : security ops · automation · tooling        │
+  │  Style      : CLI first, small and sharp                 │
+  │  Uptime     : since 2018-12                              │
+  │  Repos      : 12 public                                  │
+  │  Status     : ██████████████████░░  building             │
+  └──────────────────────────────────────────────────────────┘
+```
 
-<!-- ═══════════════ STACK ═══════════════ -->
-## 🛠️ Tech Stack
+```console
+xuan@github ~ $ cat /proc/skills
+```
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,bash,c,linux,docker,git,github,vim,mysql,html,css&perline=12&theme=dark" alt="skills" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0D1117&color=0D1117" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117&color=0D1117" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF9C&labelColor=0D1117&color=0D1117" alt="Bash" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117&color=0D1117" alt="C" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117&color=0D1117" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117&color=0D1117" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vim-0D1117?style=for-the-badge&logo=vim&logoColor=019733&labelColor=0D1117&color=0D1117" alt="Vim" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117&color=0D1117" alt="Git" />
 </p>
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-## 📌 Featured Projects
+```console
+xuan@github ~ $ ls -l ~/projects
+```
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```text
+drwxr-xr-x  NariSrc           [Python]  automated information gathering
+drwxr-xr-x  proxy_reptile     [Python]  free-proxy crawler + filter   ★ 2
+drwxr-xr-x  xxuuan.github.io  [HTML]    personal site
+drwxr-xr-x  ...               [Go/Sh]   more → github.com/xxuuan?tab=repositories
+```
 
-### 🔍 [NariSrc](https://github.com/xxuuan/NariSrc)
-以**自动化信息收集**为目标的工具。
+[`NariSrc`](https://github.com/xxuuan/NariSrc) ·
+[`proxy_reptile`](https://github.com/xxuuan/proxy_reptile) ·
+[`xxuuan.github.io`](https://github.com/xxuuan/xxuuan.github.io) ·
+[`all repos →`](https://github.com/xxuuan?tab=repositories)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [proxy_reptile](https://github.com/xxuuan/proxy_reptile) ⭐
-爬取并筛选免费代理地址的小爬虫。
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 [xxuuan.github.io](https://github.com/xxuuan/xxuuan.github.io)
-个人站点。
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-
-</td>
-<td width="50%" valign="top">
-
-### 📂 [更多仓库 »](https://github.com/xxuuan?tab=repositories)
-完整列表在仓库页。
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════ STATS ═══════════════ -->
-## 📊 GitHub Stats
+```console
+xuan@github ~ $ git log --stat --author=xuan
+```
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xxuuan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-    <img src="https://github-readme-stats.vercel.app/api?username=xxuuan&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="180" alt="stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xxuuan&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00B8FF&text_color=C9D1D9&ring_color=00FF9C&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=xxuuan&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00A86B&icon_color=0077B6&text_color=C9D1D9&ring_color=00A86B&rank_icon=github" height="170" alt="stats" />
   </picture>
-  &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxuuan&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxuuan&layout=donut&hide_border=true&langs_count=8" height="180" alt="langs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxuuan&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxuuan&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00A86B&text_color=C9D1D9" height="170" alt="langs" />
   </picture>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=xxuuan&theme=tokyonight&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=xxuuan&hide_border=true" alt="streak" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=xxuuan&hide_border=true&background=0D1117&stroke=30363D&ring=00FF9C&fire=00B8FF&currStreakNum=00FF9C&sideNums=C9D1D9&currStreakLabel=00B8FF&sideLabels=8B949E&dates=8B949E" alt="streak" />
 </p>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:bb9af7,50:7aa2f7,100:4c71f2&section=footer" alt="footer" />
+```console
+xuan@github ~ $ echo "$MOTTO"
+automate the boring, understand the rest.
+xuan@github ~ $ _
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:00b8ff,100:00ff9c" alt="" />
